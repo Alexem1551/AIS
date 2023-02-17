@@ -1,0 +1,11 @@
+Kiev.txt
+Lviv.txt
+Sumy.txt
+Odessa.txt
+Ternopil.txt
+Vinytsa.txt
+Donetsk.txt
+Sevastopol.txt
+Poltava.txt
+Mykolaiv.txt
+Chernigiv.txt
